@@ -5,7 +5,7 @@
 ### Feeding my 🧠 with:
 > **Artificial Cognitive Systems** 🤖🔌
 ###
-> **Graphene Properties** 🧲🔍
+> **Mobile Accessibility Tech** 🦽🦼
 ###
 > **Software Engineering** 🧑‍💻⚙️
 ###
