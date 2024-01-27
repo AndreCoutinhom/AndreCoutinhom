@@ -7,7 +7,9 @@
 ###
 > **Mobile Accessibility Tech** 🦽🦼
 ###
-> **Software Engineering** 🧑‍💻⚙️
+> **AR Gaming Design** 🕶️🎮
+###
+> **Computational Thinking Education** 🖱️📔
 ###
 
   ##
