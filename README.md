@@ -5,7 +5,7 @@
 ### Feeding my 🧠 with:
 > **Artificial Cognitive Systems** 🤖🔌
 ###
-> **Mobile Accessibility Tech** 🦽🦼
+> **Movement Assistive Tech** 🦽🦼
 ###
 > **AR Gaming Design** 🕶️🎮
 ###
