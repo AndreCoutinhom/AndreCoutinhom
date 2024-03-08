@@ -28,10 +28,10 @@
 </div>
 
 
-<img src="https://i.imgur.com/5EKtKDd.gif"/>
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
 
-  <div align="center" style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
 <img align="center" alt="Andre-HTML" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg"> 
 <img align="center" alt="Andre-Javascript" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/javascript-web-paginas-dinamicas.svg">
 <img align="center" alt="Andre-UXW" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/ux-writing-escrevendo-textos-usuarios.svg">
