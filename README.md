@@ -27,15 +27,7 @@ Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um proje
 
 ## Principais estudos 📖
 
-### Alimentando meu 🧠 com:
-> **Sistemas Cognitivos Artificiais** 🤖🔌
-###
-> **Tecnologia assistiva para movimento** 🦽🦼
-###
-> **Design de jogos em AR** 🕶️🎮
-###
-> **Educação para pensamento computacional** 🖱️📔
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=300&size=18&pause=1000&color=026AFF&random=false&width=435&lines=Sistemas+Cognitivos+Artificiais+%F0%9F%A4%96%F0%9F%94%8C;Tecnologia+assistiva+para+movimento+%F0%9F%A6%BD%F0%9F%A6%BC;Design+de+jogos+em+AR+%F0%9F%95%B6%EF%B8%8F%F0%9F%8E%AE;Educa%C3%A7%C3%A3o+em+pensamento+l%C3%B3gico%F0%9F%96%B1%EF%B8%8F%F0%9F%93%94)](https://git.io/typing-svg)
 
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
