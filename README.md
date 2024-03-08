@@ -1,29 +1,34 @@
-# **Reach the Stars** 🚀💫
+# **Alcance as estrelas** 🚀💫
 
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
 📧 andre.coutinhom@gmail.com
 
-### Feeding my 🧠 with:
-> **Artificial Cognitive Systems** 🤖🔌
+### Alimentando meu 🧠 com:
+> **Sistemas Cognitivos Artificiais** 🤖🔌
 ###
-> **Movement Assistive Tech** 🦽🦼
+> **Tecnologia assistiva para movimento** 🦽🦼
 ###
-> **AR Gaming Design** 🕶️🎮
+> **Design de jogos em AR** 🕶️🎮
 ###
-> **Computational Thinking Education** 🖱️📔
+> **Educação para pensamento computacional** 🖱️📔
 ###
 
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AndreCoutinhom&theme=transparent&hide_border=true&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
+
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/AndreCoutinhom)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreCoutinhom&show_icons=true&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&count_private=true&locale=pt-br&card_width=520" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreCoutinhom&show_icons=true&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&count_private=true&locale=pt-br&card_width=520" />
+ 
   </a>
+  
   <a href="[Git](https://github.com/AndreCoutinhom)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCoutinhom&hide_progress=false&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&langs_count=8&locale=pt-br&card_width=520" />
-  </a>
-    <img align="right" alt="Nick-Wilde" height="310" width="310" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
+  </a>  
+  <img align="right" alt="Nick-Wilde" height="310" width="310" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
 
 </div>
 
@@ -81,5 +86,11 @@
   </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreCoutinhom&bg_color=0d1117&color=025CDA&line=025CDA&point=80B5E2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=1200 src="https://github-profile-trophy.vercel.app/?username=AndreCoutinhom&theme=algolia"/>
+</a>
 
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
