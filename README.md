@@ -2,7 +2,7 @@
 
 # **Alcance as estrelas** 🚀💫
 
-<div align="right">
+<div align="left">
   
   [<sub><sup>README in english</sup></sub>](https://github.com/AndreCoutinhom/README_in_english)
 </div>
