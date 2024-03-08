@@ -1,8 +1,31 @@
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
+
+<div align="right">
+  
+  [<sub><sup>README in english</sup></sub>](https://github.com/AndreCoutinhom/README_in_english)
+</div>
+
 # **Alcance as estrelas** 🚀💫
+
+> **"Com um pequeno passo a partir do zero, não tenho medo, porque o mundo que queremos está aqui para nós criarmos."**. *Kanata Okajima*.
+> 
+> Música [*One Small Step*](https://open.spotify.com/intl-pt/track/0wvi4qO9vQ0HkkKrMAdoTA?si=516c4b0df5e64ba8).
 
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
+## Saudações!! 👋
+
+Meu nome é André, boas vindas ao meu perfil no **GitHub**. Aqui você vai encontrar todos os meus projetos e anotações que realizo diante de variadas experiências acadêmicas. Eu sou um pesquisador serial interdisciplinar especializado no desenvolvimento de produtos ergonômicos e interfaces intuitivas, com aplicações focadas em jogos digitais e dispositivos vestíveis. 
+
+Em meus [repositórios](https://github.com/AndreCoutinhom?tab=repositories) você encontrará, além de códigos, muitos conteúdos escritos em **Markdown**, isso porque eu sempre faço minhas anotações de cursos, estudos e ideias bem aqui na interface visual do **Git**. Eu adoro estudar sobre inovações em tecnologia, ferramentas de software (principalmente para Front-End), propriedades de diferentes linguagens de programação, *engines* de jogos digitais, desenvolvimento de sites responsivos e mais. Mesmo assim, o meu foco são conteúdos para minha pesquisa de mestrado e para o meu grupo de P&D "**Software Cabin**". 
+
+Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um projeto de pesquisa em tecnologia? Então fique por aqui, leia mais o meu _README_, visite meus repositórios e meus sites ou me dê um toque pelo meu _e-mail_, o endereço está bem aqui em baixo 👇. 
+
 📧 andre.coutinhom@gmail.com
+
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
+
+## Principais estudos 📖
 
 ### Alimentando meu 🧠 com:
 > **Sistemas Cognitivos Artificiais** 🤖🔌
@@ -16,6 +39,8 @@
 
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
+## Performance de contribuições 📈
+
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AndreCoutinhom&theme=transparent&hide_border=true&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
@@ -24,6 +49,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreCoutinhom&show_icons=true&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&count_private=true&locale=pt-br&card_width=520" />
  
   </a>
+
+###
   
   <a href="[Git](https://github.com/AndreCoutinhom)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCoutinhom&hide_progress=false&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&langs_count=8&locale=pt-br&card_width=520" />
@@ -32,9 +59,19 @@
 
 </div>
 
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreCoutinhom&bg_color=0d1117&color=025CDA&line=025CDA&point=80B5E2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=1200 src="https://github-profile-trophy.vercel.app/?username=AndreCoutinhom&theme=algolia"/>
+</a>
 
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
+## Ferramentas de estudo 🔬
 
   <div style="display: inline_block"><br>
 <img align="center" alt="Andre-HTML" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg"> 
@@ -73,6 +110,8 @@
 
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
+## Outros lugares para me encontrar 🔍
+
   <div> 
   <a href="https://pin.it/55pR1xx" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@andrecoutinho8096" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -84,13 +123,3 @@
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
   </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreCoutinhom&bg_color=0d1117&color=025CDA&line=025CDA&point=80B5E2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=1200 src="https://github-profile-trophy.vercel.app/?username=AndreCoutinhom&theme=algolia"/>
-</a>
-
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
