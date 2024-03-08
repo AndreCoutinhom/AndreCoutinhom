@@ -1,5 +1,7 @@
 # **Reach the Stars** 🚀💫
-  
+
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
+
 📧 andre.coutinhom@gmail.com
 
 ### Feeding my 🧠 with:
@@ -12,7 +14,7 @@
 > **Computational Thinking Education** 🖱️📔
 ###
 
-  ##
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/AndreCoutinhom)">
@@ -21,12 +23,15 @@
   <a href="[Git](https://github.com/AndreCoutinhom)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCoutinhom&hide_progress=false&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&langs_count=8&locale=pt-br&card_width=520" />
   </a>
+    <img align="right" alt="Nick-Wilde" height="310" width="310" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
+
 </div>
 
-  <div style="display: inline_block"><br>
-  <img align="right" alt="Nick-Wilde" height="308" width="308" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
+
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
 
+  <div align="center" style="display: inline_block"><br>
 <img align="center" alt="Andre-HTML" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg"> 
 <img align="center" alt="Andre-Javascript" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/javascript-web-paginas-dinamicas.svg">
 <img align="center" alt="Andre-UXW" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/ux-writing-escrevendo-textos-usuarios.svg">
@@ -43,7 +48,7 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
 
 <img align="center" alt="Andre-Office" height="53" width="63" src="https://geneses.com.br/wp-content/uploads/2021/07/512px-Microsoft_Office_logo_2019%E2%80%93present.svg.png"> 
 <img align="center" alt="Andre-Postman" height="53" width="48" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png"> 
@@ -56,10 +61,9 @@
 
 </div>  
 
-  ##
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
-  
-  <div> 
+  <div align="center"> 
   <a href="https://pin.it/55pR1xx" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@andrecoutinho8096" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-coutinho-0a0539163/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -67,11 +71,10 @@
   <a href="https://andrecoutinhom.github.io/andre_official_port" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="https://andrecoutinhom.github.io/book_port/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=blue" target="_blank"></a>
 
-
-
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
   </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreCoutinhom&bg_color=0d1117&color=025CDA&line=025CDA&point=80B5E2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
