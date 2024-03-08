@@ -1,11 +1,11 @@
 <img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
+# **Alcance as estrelas** 🚀💫
+
 <div align="right">
   
   [<sub><sup>README in english</sup></sub>](https://github.com/AndreCoutinhom/README_in_english)
 </div>
-
-# **Alcance as estrelas** 🚀💫
 
 > **"Com um pequeno passo a partir do zero, não tenho medo, porque o mundo que queremos está aqui para nós criarmos."**. *Kanata Okajima*.
 > 
