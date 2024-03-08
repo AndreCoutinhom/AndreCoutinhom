@@ -28,7 +28,7 @@
 </div>
 
 
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
+<img src="https://i.imgur.com/5EKtKDd.gif"/>
 
 
   <div align="center" style="display: inline_block"><br>
@@ -50,7 +50,7 @@
 
 ##
 
-<div align="center" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
 
 <img align="center" alt="Andre-Office" height="53" width="63" src="https://geneses.com.br/wp-content/uploads/2021/07/512px-Microsoft_Office_logo_2019%E2%80%93present.svg.png"> 
 <img align="center" alt="Andre-Postman" height="53" width="48" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png"> 
