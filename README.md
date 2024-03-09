@@ -9,8 +9,6 @@
 > 
 > Música [*One Small Step*](https://open.spotify.com/intl-pt/track/0wvi4qO9vQ0HkkKrMAdoTA?si=516c4b0df5e64ba8).
 
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
-
 ## Saudações!! 👋
 
 Meu nome é André, boas vindas ao meu perfil no **GitHub**. Aqui você vai encontrar todos os meus projetos e anotações que realizo diante de variadas experiências acadêmicas. Eu sou um pesquisador serial interdisciplinar especializado no desenvolvimento de produtos ergonômicos e interfaces intuitivas, com aplicações focadas em jogos digitais e dispositivos vestíveis. 
