@@ -13,8 +13,6 @@
 
 Meu nome é André, boas vindas ao meu perfil no **GitHub**. Aqui você vai encontrar todos os meus projetos e anotações que realizo diante de variadas experiências acadêmicas. Eu sou um pesquisador serial interdisciplinar especializado no desenvolvimento de produtos ergonômicos e interfaces intuitivas, com aplicações focadas em jogos digitais e dispositivos vestíveis. 
 
-Em meus [repositórios](https://github.com/AndreCoutinhom?tab=repositories) você encontrará, além de códigos, muitos conteúdos escritos em **Markdown**, isso porque eu sempre faço minhas anotações de cursos, estudos e ideias bem aqui na interface visual do **Git**. Eu adoro estudar sobre inovações em tecnologia, ferramentas de software (principalmente para Front-End), propriedades de diferentes linguagens de programação, *engines* de jogos digitais, desenvolvimento de sites responsivos e mais. Mesmo assim, o meu foco são conteúdos para minha pesquisa de mestrado e para o meu grupo de P&D "**Software Cabin**". 
-
 Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um projeto de pesquisa em tecnologia? Então fique por aqui, leia mais o meu _README_, visite meus repositórios e meus sites ou me dê um toque pelo meu _e-mail_, o endereço está bem aqui em baixo 👇. 
 
 📧 andre.coutinhom@gmail.com
