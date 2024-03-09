@@ -47,10 +47,6 @@ Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um proje
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreCoutinhom&bg_color=0d1117&color=025CDA&line=025CDA&point=80B5E2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-##
-
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=1200 src="https://github-profile-trophy.vercel.app/?username=AndreCoutinhom&theme=algolia"/>
 </a>
