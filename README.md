@@ -1,5 +1,3 @@
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
-
 # **Alcance as estrelas** 🚀💫
 
 <div align="left">
@@ -23,13 +21,9 @@ Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um proje
 
 📧 andre.coutinhom@gmail.com
 
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
-
 ## Principais pesquisas 📖
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=300&size=18&pause=1000&color=026AFF&random=false&width=435&lines=Sistemas+Cognitivos+Artificiais+%F0%9F%A4%96%F0%9F%94%8C;Tecnologia+assistiva+para+movimento+%F0%9F%A6%BD%F0%9F%A6%BC;Design+de+jogos+em+AR+%F0%9F%95%B6%EF%B8%8F%F0%9F%8E%AE;Educa%C3%A7%C3%A3o+em+pensamento+l%C3%B3gico%F0%9F%96%B1%EF%B8%8F%F0%9F%93%94)](https://git.io/typing-svg)
-
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
 ## Performance de contribuições 📈
 
@@ -60,8 +54,6 @@ Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um proje
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=1200 src="https://github-profile-trophy.vercel.app/?username=AndreCoutinhom&theme=algolia"/>
 </a>
-
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
 ## Ferramentas de estudo 🔬
 
@@ -100,8 +92,6 @@ Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um proje
 
 </div>  
 
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
-
 ## Outros lugares para me encontrar 🔍
 
   <div> 
@@ -111,7 +101,5 @@ Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um proje
   <a href="https://steamcommunity.com/profiles/76561199185421332" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://andrecoutinhom.github.io/andre_official_port" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="https://andrecoutinhom.github.io/book_port/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=blue" target="_blank"></a>
-
-<img align="center" src="https://i.imgur.com/5EKtKDd.gif"/>
 
   </div>
