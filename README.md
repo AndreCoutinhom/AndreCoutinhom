@@ -35,7 +35,7 @@ Quer saber mais detalhes sobre o que eu faço? Tem interesse em iniciar um proje
 ###
   
   <a href="[Git](https://github.com/AndreCoutinhom)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCoutinhom&hide_progress=false&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&langs_count=8&locale=pt-br&card_width=520" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCoutinhom&hide_progress=false&theme=transparent&layout=compact&border_color=025CDA&text_color=80B5E2&border_radius=0.0&langs_count=8&locale=pt-br&card_width=520" />
   </a>  
   <img align="right" alt="Nick-Wilde" height="310" width="310" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
 
