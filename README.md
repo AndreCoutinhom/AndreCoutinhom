@@ -1,5 +1,10 @@
 # **Reach the Stars** 🚀💫 
 
+<div align="left">
+  
+  [<sub><sup>README in my native language</sup></sub>](https://github.com/AndreCoutinhom/README_in_english)
+</div>
+
 > **"One small step from zero, I’m not afraid, cause the world that we want is right here for us to make."**. *Kanata Okajima*.
 > 
 > Music [*One Small Step*](https://open.spotify.com/intl-pt/track/0wvi4qO9vQ0HkkKrMAdoTA?si=516c4b0df5e64ba8).
