@@ -2,7 +2,7 @@
 
 <div align="left">
   
-  [<sub><sup>README in my native language</sup></sub>](https://github.com/AndreCoutinhom/README_in_english)
+  [<sub><sup>README in my native language</sup></sub>](https://github.com/AndreCoutinhom/README_in_portuguese)
 </div>
 
 > **"One small step from zero, I’m not afraid, cause the world that we want is right here for us to make."**. *Kanata Okajima*.
