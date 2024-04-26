@@ -76,6 +76,7 @@ Want to know more details about what I do? Interested in starting a research pro
 <img align="center" alt="Andre-Postman" height="53" width="48" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png"> 
 <img align="center" alt="Andre-Corel" height="66" width="66" src="https://insmac.org/uploads/posts/2019-03/1553188286_coreldraw-graphics-suite.png">
 <img align="center" alt="Andre-Arduino" height="53" width="103" src="https://ioturkiye.com/wp-content/uploads/2022/08/ArduinoCommunityLogo.png">
+<img align="center" alt="Andre-Copilot" height="56" width="56" src="https://teaching.cambriancollege.ca/wp-content/uploads/2024/02/Microsoft_365_Copilot_Icon.svg_-300x300.png">
 <img align="center" alt="Andre-Github" height="53" width="53" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">  
 <img align="center" alt="Andre-Ps" height="53" width="53" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"> 
 <img align="center" alt="Andre-VS" height="53" width="53" src="https://code.visualstudio.com/assets/apple-touch-icon.png">
