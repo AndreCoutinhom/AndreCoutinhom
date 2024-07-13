@@ -94,4 +94,5 @@ Want to know more details about what I do? Interested in starting a research pro
   <a href="https://andrecoutinhom.github.io/andre_official_port" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="https://andrecoutinhom.github.io/book_port/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=blue" target="_blank"></a>
 
+
   </div>
