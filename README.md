@@ -48,6 +48,8 @@ Want to know more details about what I do? Interested in starting a research pro
 
 ## Study Tools 🔬
 
+<div align="center">
+
   <div style="display: inline_block"><br>
 <img align="center" alt="Andre-HTML" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg"> 
 <img align="center" alt="Andre-UXW" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/ux-writing-escrevendo-textos-usuarios.svg">
@@ -64,10 +66,10 @@ Want to know more details about what I do? Interested in starting a research pro
 
 </div>  
 
-<img alt="hamaru" height="150" width="150" src="/hamaru_pixel.gif">
 
 <div style="display: inline_block"><br>
-  
+  <img align="center" alt="hamaru" height="150" width="150" src="/hamaru_pixel.gif">
+
 <a href="https://www.meta.com/quest/" target="_blank"><img align="center" alt="Andre-Oculus" height="75" width="75" src="https://preview.redd.it/htl7n50tlff31.png?width=450&format=png&auto=webp&s=c2381cacd0a0eca88bf041a54402a3b5397eb1f5"></a>
 <a href="https://www.mendeley.com/" target="_blank"><img align="center" alt="Andre-Mendeley" height="68" width="68" src="https://cdn.iconscout.com/icon/free/png-256/free-mendeley-3628916-3030056.png"></a>
 <a href="https://git-scm.com" target="_blank"><img align="center" alt="Andre-GitCommand" height="53" width="53" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a>
@@ -82,6 +84,8 @@ Want to know more details about what I do? Interested in starting a research pro
 <a href="https://react.dev" target="_blank"><img align="center" alt="Andre-React" height="53" width="63" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a>
 
 </div>  
+</div>
+
 
 ## Other places you can find me 🔍
 
