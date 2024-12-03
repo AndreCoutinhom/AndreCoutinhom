@@ -11,7 +11,11 @@
 
 ## Salutations!! 👋
 
-My name is André, welcome to my **GitHub** profile. Here you will find all my projects and notes that I take during various scholar experiences. I'm a serial interdisciplinary researcher specializing in ergonomic products design and intuitive interfaces, with applications focused on videogames and wearable devices.
+My name is André, welcome to my **GitHub** profile. Here you will find all my projects and notes that I take during various scholar experiences. I'm a serial interdisciplinary researcher specializing in adaptable design and memorable experiences, with applications focused on videogames and wearable devices.
+
+I conduct a minor Research Group called **Edyh Lab.**, in which future researchers follow well put scientific behaviour and best practices. Click on the icon below to know more about us:
+
+<a href="https://www.linkedin.com/company/edyh-lab/"><img alt="edyh-lab" height="150" width="150" src="https://media-gru2-2.cdn.whatsapp.net/v/t61.24694-24/459505946_1226297785080955_6245641391957544409_n.jpg?stp=dst-jpg_tt6&ccb=11-4&oh=01_Q5AaIN-tpT_Dw12jRZPZ2NZeqW73wxsMDlVDWAnKlEMwniW2&oe=675853E8&_nc_sid=5e03e0&_nc_cat=105"></a>
 
 Want to know more details about what I do? Interested in starting a research project in technology? Then stick around, read more of my _README_, visit my repositories and my websites, or send me an email, the address is right down below 👇.
 
@@ -19,7 +23,7 @@ Want to know more details about what I do? Interested in starting a research pro
 
 ## Main Researches 📖
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=300&pause=1000&color=0071FF&random=false&width=435&lines=Modular+Wearables+%F0%9F%91%95%F0%9F%AA%AB;Assistive+Tech+%F0%9F%98%8E%F0%9F%92%BB;AR+Game+Design+%F0%9F%93%B1%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=300&pause=1000&color=0071FF&random=false&width=435&lines=Modular+Wearables+👕🧩;Experimental+Research+🔭🧪;Memorable+Experiences+🤩🪄)](https://git.io/typing-svg)
 
 ## Contributions performance 📈
 
@@ -72,7 +76,7 @@ Want to know more details about what I do? Interested in starting a research pro
 <a href="https://www.meta.com/quest/" target="_blank"><img align="center" alt="Andre-Oculus" height="75" width="75" src="https://preview.redd.it/htl7n50tlff31.png?width=450&format=png&auto=webp&s=c2381cacd0a0eca88bf041a54402a3b5397eb1f5"></a>
 <a href="https://www.mendeley.com/" target="_blank"><img align="center" alt="Andre-Mendeley" height="68" width="68" src="https://cdn.iconscout.com/icon/free/png-256/free-mendeley-3628916-3030056.png"></a>
 <a href="https://git-scm.com" target="_blank"><img align="center" alt="Andre-GitCommand" height="53" width="53" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a>
-<a href="https://www.microsoft.com/pt-br/microsoft-365/microsoft-office" target="_blank"><img align="center" alt="Andre-Office" height="53" width="63" src="https://geneses.com.br/wp-content/uploads/2021/07/512px-Microsoft_Office_logo_2019%E2%80%93present.svg.png"></a>
+<a href="https://www.microsoft.com/pt-br/microsoft-365/microsoft-office" target="_blank"><img align="center" alt="Andre-Office" height="53" width="63" src="https://cdn.worldvectorlogo.com/logos/office-2.svg"></a>
 <a href="https://www.arduino.cc" target="_blank"><img align="center" alt="Andre-Arduino" height="53" width="103" src="https://support.arduino.cc/hc/article_attachments/12416033021852"></a>
 <a href="https://www.overleaf.com" target="_blank"><img align="center" alt="Andre-Overleaf" height="65" width="62" src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png"></a>
 <a href="https://www.microsoft.com/microsoft-copilot" target="_blank"><img align="center" alt="Andre-Copilot" height="56" width="56" src="https://teaching.cambriancollege.ca/wp-content/uploads/2024/02/Microsoft_365_Copilot_Icon.svg_-300x300.png"></a>
@@ -91,8 +95,6 @@ Want to know more details about what I do? Interested in starting a research pro
   <a href="https://www.youtube.com/@andrecoutinho8096" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-coutinho-0a0539163/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561199185421332" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  <a href="https://andrecoutinhom.github.io/andre_official_port" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href="https://andrecoutinhom.github.io/book_port/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=blue" target="_blank"></a>
 
 
   </div>
