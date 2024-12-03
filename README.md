@@ -10,7 +10,7 @@ My name is André, welcome to my **GitHub** profile. Here you will find all my p
 
 I conduct a minor Research Group called **Edyh Lab.**, in which future researchers follow well put scientific behaviour and best practices. Click on the icon below to know more about us:
 
-<a href="https://www.linkedin.com/company/edyh-lab/"><img alt="edyh-lab" height="150" width="150" src="/logomarca ilustrada.png"></a>
+<a href="https://www.linkedin.com/company/edyh-lab/"><img alt="edyh-lab" height="150" width="150" src="/logomarca_Ilustrada.png"></a>
 
 Want to know more details about what I do? Interested in starting a research project in technology? Then stick around, read more of my _README_, visit my repositories and my websites, or send me an email, the address is right down below 👇.
 
@@ -64,7 +64,7 @@ Want to know more details about what I do? Interested in starting a research pro
 
 </div>  
 
-##
+<img alt="hamaru" height="150" width="150" src="/hamaru_pixel.gif">
 
 <div style="display: inline_block"><br>
   
