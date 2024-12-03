@@ -1,4 +1,4 @@
-# **Reach the Stars** 🚀💫 
+# ⭐ **Welcome to my GitHub page** ⭐
 
 > **"One small step from zero, I’m not afraid, cause the world that we want is right here for us to make."**. *Kanata Okajima*.
 > 
