@@ -24,7 +24,7 @@ Want to know more details about what I do? Interested in starting a research pro
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AndreCoutinhom&theme=transparent&hide_border=true&locale=en&mode=weekly" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AndreCoutinhom&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/AndreCoutinhom)">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreCoutinhom&show_icons=true&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&count_private=true&locale=en&card_width=520" />
