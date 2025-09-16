@@ -24,8 +24,6 @@ Want to know more details about what I do? Interested in starting a research pro
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AndreCoutinhom&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/AndreCoutinhom)">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreCoutinhom&show_icons=true&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&count_private=true&locale=en&card_width=520" />
  
@@ -85,9 +83,7 @@ Want to know more details about what I do? Interested in starting a research pro
 <a href="https://www.microsoft.com/pt-br/microsoft-365/microsoft-office" target="_blank"><img align="center" alt="Andre-Office" height="53" width="63" src="https://cdn.worldvectorlogo.com/logos/office-2.svg"></a>
 <a href="https://www.arduino.cc" target="_blank"><img align="center" alt="Andre-Arduino" height="53" width="103" src="https://support.arduino.cc/hc/article_attachments/12416033021852"></a>
 <a href="https://www.overleaf.com" target="_blank"><img align="center" alt="Andre-Overleaf" height="65" width="62" src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png"></a>
-<a href="https://www.microsoft.com/microsoft-copilot" target="_blank"><img align="center" alt="Andre-Copilot" height="56" width="56" src="https://teaching.cambriancollege.ca/wp-content/uploads/2024/02/Microsoft_365_Copilot_Icon.svg_-300x300.png"></a>
 <a href="https://chat.openai.com" target="_blank"><img align="center" alt="Andre-ChatGPT" height="63" width="63" src="https://i0.wp.com/aitoolsarena.com/wp-content/uploads/2023/03/gpt-4-logo-small.png?fit=320%2C320&ssl=1"></a>
-<a href="https://gemini.google.com/app" target="_blank"><img align="center" alt="Andre-Gemini" height="53" width="53" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png"></a>
 <a href="https://github.com" target="_blank"><img align="center" alt="Andre-GitHub" height="53" width="53" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Github_icon-icons.com_66788.png"></a>
 <a href="https://code.visualstudio.com" target="_blank"><img align="center" alt="Andre-VS" height="53" width="53" src="https://code.visualstudio.com/assets/apple-touch-icon.png"></a>
 <a href="https://react.dev" target="_blank"><img align="center" alt="Andre-React" height="53" width="63" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a>
