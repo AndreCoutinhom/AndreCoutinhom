@@ -6,90 +6,26 @@
 
 ## Salutations!! 👋
 
+  <img align="right" alt="Nick-Wilde" height="310" width="310" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
+
+
 My name is André, welcome to my **GitHub** profile. Here you will find all my projects and notes that I take during various scholar experiences. I'm a serial interdisciplinary researcher specializing in adaptable design and memorable experiences, with applications focused on videogames and wearable devices.
 
 I conduct a minor Research Group called **Edyh Lab.**, in which future researchers follow well put scientific behaviour and best practices. Click on the icon below to know more about us:
 
 <a href="https://www.linkedin.com/company/edyh-lab/"><img alt="edyh-lab" height="150" width="150" src="/logomarca_Ilustrada.png"></a>
 
+
+
 Want to know more details about what I do? Interested in starting a research project in technology? Then stick around, read more of my _README_, visit my repositories and my websites, or send me an email, the address is right down below 👇.
 
 📧 andre.coutinhom@gmail.com
+
 
 ## Main Researches 📖
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=300&pause=1000&color=0071FF&random=false&width=435&lines=Human-Machine+Interaction+🧑‍💻🦾;Scientific+Communication+🔭🎙️;Memorable+Experiences+🤩🪄)](https://git.io/typing-svg)
 
-## Contributions performance 📈
-
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/AndreCoutinhom)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreCoutinhom&show_icons=true&theme=transparent&border_color=025CDA&text_color=80B5E2&border_radius=0.0&count_private=true&locale=en&card_width=520" />
- 
-  </a>
-
-###
-  
- <a href="[Git](https://github.com/AndreCoutinhom)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCoutinhom&hide_progress=false&theme=transparent&layout=compact&border_color=025CDA&text_color=80B5E2&border_radius=0.0&langs_count=8&locale=pt-br&card_width=520" />
-  </a>  
-  <img align="right" alt="Nick-Wilde" height="310" width="310" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
-
-</div>
-
-##
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=1200 src="https://github-profile-trophy.vercel.app/?username=AndreCoutinhom&theme=algolia"/>
-</a>
-
-## Study Tools 🔬
-
-<div align="center">
-
-  <div style="display: inline_block"><br>
-<img align="center" alt="Andre-HTML" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/html5-css3-primeiros-passos.svg"> 
-<img align="center" alt="Andre-Python" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/python-crie-sua-primeira-aplicacao.svg">
-
-    
-<img align="center" alt="Andre-Unreal" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/unreal-vr-arquitetura-parte-1.svg">
-<img align="center" alt="Andre-PowerPoint" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/comunicacao-corporativa-powerpoint.svg">
-
-
-<img align="center" alt="Andre-php" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/persistencia-poliglota-php-buscas-mensageria-bancos-dados-grafos-colunares.svg">
-<img align="center" alt="Andre-Javascript" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/javascript-web-paginas-dinamicas.svg">
-
-<img align="center" alt="Andre-Video" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/producao-audiovisual.svg">
-<img align="center" alt="Andre-C++" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/c-plus-plus-orientacao-objetos-heranca.svg">
-<img align="center" alt="Andre-Character" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/design-personagem-concept-animais-criaturas.svg">
-<img align="center" alt="Andre-Alexa" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/iot-amazon-alexa.svg">
-
-<img align="center" alt="Andre-UX" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/ux-research-mapeando-experiencia-usuaria.svg">
-<img align="center" alt="Andre-Ps" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/adobe-photoshop-iluminacao-hq.svg">
-<img align="center" alt="Andre-OWASP" height="45" width="45" src="https://www.alura.com.br/assets/api/cursos/owasp10-a5-broken-access-control.svg">
-
-
-
-</div>  
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="hamaru" height="150" width="150" src="/hamaru_pixel.gif">
-
-<a href="https://www.meta.com/quest/" target="_blank"><img align="center" alt="Andre-Oculus" height="75" width="75" src="https://preview.redd.it/htl7n50tlff31.png?width=450&format=png&auto=webp&s=c2381cacd0a0eca88bf041a54402a3b5397eb1f5"></a>
-<a href="https://www.mendeley.com/" target="_blank"><img align="center" alt="Andre-Mendeley" height="68" width="68" src="https://cdn.iconscout.com/icon/free/png-256/free-mendeley-3628916-3030056.png"></a>
-<a href="https://git-scm.com" target="_blank"><img align="center" alt="Andre-GitCommand" height="53" width="53" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a>
-<a href="https://www.microsoft.com/pt-br/microsoft-365/microsoft-office" target="_blank"><img align="center" alt="Andre-Office" height="53" width="63" src="https://cdn.worldvectorlogo.com/logos/office-2.svg"></a>
-<a href="https://www.arduino.cc" target="_blank"><img align="center" alt="Andre-Arduino" height="53" width="103" src="https://support.arduino.cc/hc/article_attachments/12416033021852"></a>
-<a href="https://www.overleaf.com" target="_blank"><img align="center" alt="Andre-Overleaf" height="65" width="62" src="https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png"></a>
-<a href="https://chat.openai.com" target="_blank"><img align="center" alt="Andre-ChatGPT" height="63" width="63" src="https://i0.wp.com/aitoolsarena.com/wp-content/uploads/2023/03/gpt-4-logo-small.png?fit=320%2C320&ssl=1"></a>
-<a href="https://github.com" target="_blank"><img align="center" alt="Andre-GitHub" height="53" width="53" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Github_icon-icons.com_66788.png"></a>
-<a href="https://code.visualstudio.com" target="_blank"><img align="center" alt="Andre-VS" height="53" width="53" src="https://code.visualstudio.com/assets/apple-touch-icon.png"></a>
-<a href="https://react.dev" target="_blank"><img align="center" alt="Andre-React" height="53" width="63" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a>
-
-</div>  
-</div>
 
 
 ## Other places you can find me 🔍
