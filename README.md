@@ -1,8 +1,6 @@
 # ⭐ **Welcome to my GitHub page** ⭐
 
-> **"One small step from zero, I’m not afraid, cause the world that we want is right here for us to make."**. *Kanata Okajima*.
-> 
-> Music [*One Small Step*](https://open.spotify.com/intl-pt/track/0wvi4qO9vQ0HkkKrMAdoTA?si=516c4b0df5e64ba8).
+> **"There's a great big beautiful tomorrow, and tomorrow is just a dream away"**. *Robert and Richard Sherman*.
 
 ## Salutations!! 👋
 
