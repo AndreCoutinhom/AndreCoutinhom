@@ -26,8 +26,8 @@ Want to know more details about what I do? Interested in starting a research pro
 
 ## Favorite tools
 
-<img src="https://skillicons.dev/icons?i=java,idea,html,css,js,nodejs,ts,angular,postman,github,git,vscode,md,arduino,cpp" height="60" width="100%" alt="Tech stack" />
-<img src="https://skillicons.dev/icons?i=mysql,latex" height="60" width="100%" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=java,idea,html,css,js,nodejs,ts,angular,postman,github,git,vscode,mysql,md" height="60" width="100%" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=cpp,arduino,latex" height="60" width="100%" alt="Tech stack" />
 
 ## Other places you can find me 🔍
 
