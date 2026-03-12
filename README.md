@@ -24,7 +24,10 @@ Want to know more details about what I do? Interested in starting a research pro
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=300&pause=1000&color=0071FF&random=false&width=435&lines=Human-Machine+Interaction+🧑‍💻🦾;Scientific+Communication+🔭🎙️;Memorable+Experiences+🤩🪄)](https://git.io/typing-svg)
 
+## Favorite tools
 
+<img src="https://skillicons.dev/icons?i=java,idea,html,css,js,nodejs,ts,angular,postman,github,git,vscode,md,arduino,cpp" height="60" width="100%" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=mysql,latex" height="60" width="100%" alt="Tech stack" />
 
 ## Other places you can find me 🔍
 
