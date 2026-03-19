@@ -4,16 +4,10 @@
 
 ## Salutations!! 👋
 
-  <img align="right" alt="Nick-Wilde" height="310" width="310" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
+  <img align="right" alt="Nick-Wilde" height="250" width="250" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
 
 
-My name is André, welcome to my **GitHub** profile. Here you will find all my projects and notes that I take during various scholar experiences. I'm a serial interdisciplinary researcher specializing in adaptable design and memorable experiences, with applications focused on videogames and wearable devices.
-
-I conduct a minor Research Group called **Edyh Lab.**, in which future researchers follow well put scientific behaviour and best practices. Click on the icon below to know more about us:
-
-<a href="https://www.linkedin.com/company/edyh-lab/"><img alt="edyh-lab" height="150" width="150" src="/logomarca_Ilustrada.png"></a>
-
-
+My name is André, welcome to my **GitHub** profile. Here you will find all my projects and notes that I take during various scholar experiences. I'm an interdisciplinary researcher specializing in adaptable design and memorable experiences, with applications focused on videogames and wearable devices.
 
 Want to know more details about what I do? Interested in starting a research project in technology? Then stick around, read more of my _README_, visit my repositories and my websites, or send me an email, the address is right down below 👇.
 
