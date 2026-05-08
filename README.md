@@ -4,7 +4,10 @@
 
 ## Salutations!! 👋
 
+
+<picture>
 <img align="right" alt="Nick-Wilde" height="250" width="250" src="https://emoji.discadia.com/emojis/3865ebb6-3cdb-4588-9728-0b64c3b0c242.GIF">
+</picture>
 
 
 My name is André, welcome to my **GitHub** profile. Here you will find all my projects and notes that I take during various scholar experiences. I'm an interdisciplinary researcher specializing in adaptable design and memorable experiences, with applications focused on videogames and wearable devices.
