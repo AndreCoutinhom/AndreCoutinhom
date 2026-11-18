@@ -21,6 +21,16 @@ Want to know more details about what I do? Interested in starting a research pro
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=300&pause=1000&color=0071FF&random=false&width=435&lines=Human-Machine+Interaction+🧑‍💻🦾;Scientific+Communication+🔭🎙️)](https://git.io/typing-svg)
 
+## GitHub Activity 🐙
+
+<div align="left">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreCoutinhom&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide-border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCoutinhom&theme=github_dark_dimmed&layout=compact&langs_count=8&hide-border=true"/>
+
+</div>
+
 ## Software Tools
 
 <img src="https://skillicons.dev/icons?i=java,idea,spring,html,css,js,nodejs,ts,angular,postman,git,github,vscode,mysql,md" height="60" width="100%" alt="Tech stack" />
