@@ -25,8 +25,6 @@ Want to know more details about what I do? Interested in starting a research pro
 
 <div align="left">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreCoutinhom&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide-border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCoutinhom&theme=github_dark_dimmed&layout=compact&langs_count=8&hide-border=true"/>
 
 </div>
